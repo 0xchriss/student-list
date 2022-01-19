@@ -119,7 +119,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Xavier Finlayson
 * Alan
 * Patrick Workman
-* Chriss
+* Chris Nguyen
 * Jzii
 * Lennart
 * kp (kp5ive)
